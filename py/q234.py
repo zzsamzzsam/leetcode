@@ -27,7 +27,7 @@ class Solution(object):
         return ret
 
 """
-https://leetcode.com/problems/palindrome-linked-list/submissions/
+https://leetcode.com/problems/palindrome-linked-list/
 
 Runtime: 2143 ms, faster than 10.05% of Python online submissions for Palindrome Linked List.
 Memory Usage: 122.2 MB, less than 5.19% of Python online submissions for Palindrome Linked List.
